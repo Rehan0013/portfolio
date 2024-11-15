@@ -68,21 +68,21 @@ const experiences = [
 
 const portfolio = [
   {
-    name: "Open Source Computer Science Repo",
+    name: "Inventory Management System",
     description:
-      "A GitHub repo with over 17,000 stars containing a curated list of free online courses from reputable universities that satisfy undergraduate computer science requirements.",
+      "The Inventory Management System is built using React and Node.js. It enables real-time tracking of products, stock levels, and inventory updates with a user-friendly interface.",
     image: oscs,
   },
   {
-    name: "Dev Notes",
+    name: "Sales Analysis",
     description:
-      "A newsletter with over 6,000 readers made for software developers to keep up with this rapidly evolving industry, with a sister platform in progress.",
+      "The Python sales comparison script reads sales data from an Excel file for the past two years, compares the monthly figures, and generates a line graph to visually represent the trends. Using libraries like pandas, numpy and matplotlib, the script identifies which year was more profitable and provides a clear visual analysis of monthly sales performance.",
     image: devnotes,
   },
   {
-    name: "Visually Understanding Algorithms",
+    name: "Fingers Counting using OpenCV",
     description:
-      "A showcase of animated algorithms coded using TypeScript, with the video garnering over 400,000 views.",
+      "The Finger Counting project in Python utilizes computer vision techniques to detect and count the number of fingers shown in front of a camera. By leveraging libraries like OpenCV and MediaPipe, the program tracks hand landmarks and processes video feed in real-time to recognize finger gestures, accurately determining how many fingers are raised",
     image: algorithms,
   },
 ];
