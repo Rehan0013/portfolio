@@ -83,7 +83,7 @@ const portfolio = [
     name: "Fingers Counting using OpenCV",
     description:
       "The Finger Counting project in Python utilizes computer vision techniques to detect and count the number of fingers shown in front of a camera. By leveraging libraries like OpenCV and MediaPipe, the program tracks hand landmarks and processes video feed in real-time to recognize finger gestures, accurately determining how many fingers are raised",
-    image: algorithms,
+    image: fingers,
   },
 ];
 
