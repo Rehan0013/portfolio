@@ -1,5 +1,5 @@
 import {
-  algorithms,
+  fingers,
   devnotes,
   oscs,
 } from "../assets";
