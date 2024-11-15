@@ -2,8 +2,8 @@ import close from "./close.svg";
 import logo from "./logo.svg";
 import menu from "./menu.svg";
 
-import devnotes from "./devnotes.png";
+import sales from "./sales.png";
 import fingers from "./fingers.png";
-import oscs from "./oscs.png";
+import inventory from "./inventory.png";
 
-export { fingers, close, devnotes, logo, menu, oscs };
+export { fingers, close, sales, logo, menu, inventory };

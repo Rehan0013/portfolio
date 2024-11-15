@@ -1,7 +1,7 @@
 import {
   fingers,
-  devnotes,
-  oscs,
+  sales,
+  inventory,
 } from "../assets";
 
 export const navLinks = [
@@ -71,13 +71,13 @@ const portfolio = [
     name: "Inventory Management System",
     description:
       "The Inventory Management System is built using React and Node.js. It enables real-time tracking of products, stock levels, and inventory updates with a user-friendly interface.",
-    image: oscs,
+    image: inventory,
   },
   {
     name: "Sales Analysis",
     description:
       "The Python sales comparison script reads sales data from an Excel file for the past two years, compares the monthly figures, and generates a line graph to visually represent the trends. Using libraries like pandas, numpy and matplotlib, the script identifies which year was more profitable and provides a clear visual analysis of monthly sales performance.",
-    image: devnotes,
+    image: sales,
   },
   {
     name: "Fingers Counting using OpenCV",
