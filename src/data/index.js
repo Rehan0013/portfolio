@@ -25,43 +25,28 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "YouTube Content Creator",
-    company_name: "Self Employed",
-    date: "2016 - Present",
+    title: "DataStructures & Algorithm",
+    company_name: "C++ and Python",
     details: [
-      "Built a subscriber base of over <span style='color: white;'>500,000 subscribers</span> by creating video content to help programmers.",
-      "Crafted visually appealling programming videos that have garnered over <span style='color: white;'>30,000,000 views</span>.",
-      "Produced high-quality educational and entertaining videos for clients including <span style='color: white;'>Intel, JetBrains, and MicroCenter</span>.",
+      "Proficient in Data Structures and Algorithms (DSA) using <span style='color: white;'>C++</span> and <span style='color: white;'>Python</span>, I possess a solid understanding of fundamental and advanced concepts.",
+      " My expertise includes solving complex problems efficiently and optimizing code for better performance, which allows me to contribute effectively to challenging projects.",
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Indie",
-    date: "2019 - 2023",
+    title: "Full Stack Web Developer",
+    company_name: "HTML, CSS, JavaScript, React, Node.js",
     details: [
-      "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
-      "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
-      "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
+      "Skilled in web development with expertise in <span style='color: white;'> HTML, CSS, JavaScript, </span> and <span style='color: white;'>React</span>, I create <span style='color: white;'>dynamic</span> and <span style='color: white;'>responsive</span>user interfaces.",
+      " My focus is on delivering clean, scalable, and engaging web solutions, leveraging modern technologies to enhance user experiences, paired with robust backend systems for efficient data management.",
+      "My expertise lies in delivering seamless and efficient end-to-end web solutions tailored to user needs.",
     ],
   },
   {
-    title: "Software Engineer",
-    company_name: "Prime 3",
-    date: "2018 - 2019",
+    title: "Data Analytics",
+    company_name: "Python, Pandas, Numpy, Matplotlib, SQL ",
     details: [
-      "Built custom enterprise applications for a <span style='color: white;'>Fortune 500 company</span> as a full-stack software engineer.",
-      "Developed and maintained <span style='color: white;'>scalable backend services</span>, ensuring high availability for critical business applications.",
-      "<span style='color: white;'>Collaborated with a team</span> to design and implement front-end interfaces.",
-    ],
-  },
-  {
-    title: "Computer Science",
-    company_name: "ODU",
-    date: "2015 - 2018",
-    details: [
-      "Built a <span style='color: white;'>computer science foundation</span> learning theory, computer architecture, and software engineering.",
-      "Worked and interned at <span style='color: white;'>NASA and Norfolk Southern Railway</span> to gain practical experience in the field of data analysis.",
-      "Acted as a member of the <span style='color: white;'>Association for Computing Machinery</span> (ACM).",
+      "Proficient in Data Analytics, I leverage Python libraries such as Pandas, NumPy, and Matplotlib alongside SQL to extract, analyze, and visualize data effectively.",
+      " My skills enable me to uncover insights and drive data-driven decision-making for impactful results.",
     ],
   },
 ];
