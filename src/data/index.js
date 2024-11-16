@@ -36,7 +36,7 @@ const experiences = [
     title: "Full Stack Web Developer",
     company_name: "HTML, CSS, JavaScript, React, Node.js",
     details: [
-      "Skilled in web development with expertise in <span style='color: white;'> HTML, CSS, JavaScript, </span> and <span style='color: white;'>React</span>, I create <span style='color: white;'>dynamic</span> and <span style='color: white;'>responsive</span>user interfaces.",
+      "Skilled in web development with expertise in <span style='color: white;'> HTML, CSS, JavaScript, </span> and <span style='color: white;'>React</span>, I create <span style='color: white;'>dynamic</span> and <span style='color: white;'>responsive</span> user interfaces.",
       " My focus is on delivering clean, scalable, and engaging web solutions, leveraging modern technologies to enhance user experiences, paired with robust backend systems for efficient data management.",
       "My expertise lies in delivering seamless and efficient end-to-end web solutions tailored to user needs.",
     ],
@@ -45,7 +45,7 @@ const experiences = [
     title: "Data Analytics",
     company_name: "Python, Pandas, Numpy, Matplotlib, SQL ",
     details: [
-      "Proficient in Data Analytics, I leverage Python libraries such as Pandas, NumPy, and Matplotlib alongside SQL to extract, analyze, and visualize data effectively.",
+      "Proficient in Data Analytics, I leverage Python libraries such as <span style='color: white;'>Pandas</span>, <span style='color: white;'>NumPy</span>, and <span style='color: white;'>Matplotlib</span> alongside <span style='color: white;'>SQL</span> to extract, analyze, and visualize data effectively.",
       " My skills enable me to uncover insights and drive data-driven decision-making for impactful results.",
     ],
   },
