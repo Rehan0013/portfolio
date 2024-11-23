@@ -53,19 +53,22 @@ const Contact = () => {
           <input
             type="text"
             name="name"
+            required
             placeholder="Enter your full name"
             className="bg-tertiary p-4 text-white border font-medium"
           />
           <span className='text-white font-medium mt-3'>Email Address</span>
           <input
-            type="text"
+            type="email"
             name="email"
+            required
             placeholder="Enter your email address"
             className="bg-tertiary p-4 text-white border font-medium"
           />
           <span className='text-white font-medium mt-3'>Message</span>
           <textarea
             name="message"
+            required
             placeholder="Enter your message"
             rows="10"
             className="bg-tertiary p-4 text-white border font-medium"
