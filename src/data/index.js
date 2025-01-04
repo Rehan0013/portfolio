@@ -2,6 +2,7 @@ import {
   fingers,
   sales,
   inventory,
+  codeEditor,
 } from "../assets";
 
 export const navLinks = [
@@ -57,6 +58,12 @@ const portfolio = [
     description:
       "The Inventory Management System is built using React and Node.js. It enables real-time tracking of products, stock levels, and inventory updates with a user-friendly interface.",
     image: inventory,
+  },
+  {
+    name: "Code Editor",
+    description:
+      "The Code Editor project in React and Node.js offers a simple and efficient way to write and edit code in multiple languages. It use convex for backend as well as clerk for user login and authentication. You can also share code snippets with others. It features a clean and intuitive interface, with syntax highlighting and code folding for improved readability.",
+    image: codeEditor,
   },
   {
     name: "Sales Analysis",
