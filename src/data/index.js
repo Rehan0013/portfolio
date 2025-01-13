@@ -80,4 +80,3 @@ const portfolio = [
 ];
 
 export { experiences, portfolio };
-
