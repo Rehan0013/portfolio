@@ -56,7 +56,7 @@ const portfolio = [
   {
     name: "Inventory Management System",
     description:
-      "The Inventory Management System is built using React and Node.js. It enables real-time tracking of products, stock levels, and inventory updates with a user-friendly interface.",
+      "The Inventory Management System is built using React and Node.js. It enables tracking of products, stock levels, and inventory updates with a user-friendly interface. it also show the expenses by categories with the help of charts.",
     image: inventory,
   },
   {
